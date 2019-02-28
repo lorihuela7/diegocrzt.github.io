@@ -34,3 +34,4 @@ Se espera que:
 - Un ejemplo: [https://diegocrzt.github.io/](https://diegocrzt.github.io/)
 - Un tutorial de git: [https://www.tutorialspoint.com/git/index.htm](https://www.tutorialspoint.com/git/index.htm)
 - Un editor de código: [https://code.visualstudio.com/](https://code.visualstudio.com/)
+- Una guía paso a paso para github pages: [https://guides.github.com/features/pages/](https://guides.github.com/features/pages/)
