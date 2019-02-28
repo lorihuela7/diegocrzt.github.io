@@ -108,3 +108,7 @@ dd.clear {
     border-radius: 90%;
     width: 200px;
 }
+
+footer {    
+    text-align: right;
+}
