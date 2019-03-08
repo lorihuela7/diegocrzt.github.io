@@ -20,7 +20,7 @@ Se espera que:
 - El código del sitio `DEBE` estar disponible en públicamente github (ej: https://github.com/<nombre_de_usuario>/<nombre_de_usuario>.github.io)
 - El repositorio contiene por lo menos un fichero `index.html`. Pero opcionalmente puede tener otros directorios y ficheros.
 - El código del fichero html `DEBE` ser `HTML5` válido. Para validar se puede usar el siguiente [sitio](https://html5.validator.nu/).
-- La información del estudiante junto con los enlaces al repositorio y la página `DEBEN` ser enviados antes del `miércoles 6 de marzo de 2019` a las `23:59:59` por medio del siguiente [formulario](https://goo.gl/forms/BRoeCzoLk8zRQYiU2).
+- La información del estudiante junto con los enlaces al repositorio y la página `DEBEN` ser enviados antes del `viernes 8 de marzo de 2019` a las `11:59:59` por medio del siguiente [formulario](https://goo.gl/forms/BRoeCzoLk8zRQYiU2).
 
 ## Consideraciones Adicionales
 
