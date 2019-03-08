@@ -43,7 +43,7 @@ Modificar el estilo del `HTML` proveído en el archivo [index.html](index.html) 
 * Escribir las reglas CSS que apliquen los cambios sugeridos. 
 * Poner en práctica las buenas prácticas, puedes consultar éste [link](https://code.tutsplus.com/tutorials/30-css-best-practices-for-beginners--net-6741).
 * No comprimas el archivo CSS.
-* El repositorio debe contener el archivo HTML con los estilos aplicados.
+* El repositorio debe contener el archivo HTML con los estilos aplicados (los estilos de ser posible en un fichero externo).
 * Los estilos CSS aplicados `DEBEN` ser válidos. Asegurate de usar un validador como [éste](https://jigsaw.w3.org/css-validator).
 * La información del estudiante junto con los enlaces al repositorio y la página `DEBEN` ser enviados antes del `miércoles 13 de marzo de 2019` a las `23:59:59` por medio del siguiente [formulario](https://goo.gl/forms/UbLn3CjbQwOy3qbR2).
 * Usar tu creatividad e imaginación! 😉
