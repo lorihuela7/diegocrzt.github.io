@@ -26,6 +26,16 @@ Lo que se debe hacer es completar el fichero `todolist.js` añadiendo la lógica
 El servicio publicado provee todo lo que se necesita para listar, agregar, editar y borrar tareas.
 En éste [link](https://documenter.getpostman.com/view/2543680/S17kyrCZ), se puede consultar como realizar las llamadas a cada método del API.
 
+También se proveen tres ficheros para usar con postman, insomnia o algún otro cliente REST
+
+[Fichero genérico](tasks_backend.har)
+
+[Fichero para insomnia](tasks_backend_insomnia.json)
+
+[Fichero para postman](tasks_backend_postman.json)
+
+Estos ficheros pueden importarse en postman o insomnia y sirven solo a modo de documentar y probar la API.
+
 ## Haciendo una llamada usando la técnica AJAX(JavaScript) hacia la API
 
 Hemos visto en clases, que ésto se hace usando el objeto `XMLHttpRequest`. Sin embargo, para que la llamada al API sea más fácil, podés usar las funciones que se encuentran en el archivo `ajax.js`.
