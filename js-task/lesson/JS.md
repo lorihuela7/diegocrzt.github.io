@@ -244,7 +244,7 @@ titles.forEach(title => {
 
 Short for **A**synchronous **J**avaScript **A**nd **X**ML
 
-![https://upload.wikimedia.org/wikipedia/commons/0/0b/Ajax-vergleich-en.svg]()
+![](https://upload.wikimedia.org/wikipedia/commons/0/0b/Ajax-vergleich-en.svg)
 
 Consist in using the builtin object [`XMLHttpRequest`](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest) to make asynchronous calls to http servers in order to receive the answer, parse the response and if necessary modify the document.
 
