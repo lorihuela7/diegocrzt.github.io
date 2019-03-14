@@ -11,3 +11,7 @@
 ## CSS
 
 [CSS](css-task/problem/Ej_CSS.md): Agregar estilos CSS
+
+## JS
+
+[JS](js-task/problem/Ej_JS.md): Página dinámica con JavaScript
